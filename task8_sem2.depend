@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1625313676 source:c:\users\30041203\desktop\c++ projects\task8_sem2\main.cpp
+	<iostream>
+	"tree.h"
+	<locale.h>
+
+1621325280 c:\users\30041203\desktop\c++ projects\task8_sem2\tree.h
+	<iostream>
+	<string>
+	<iomanip>
+	<cmath>
+
